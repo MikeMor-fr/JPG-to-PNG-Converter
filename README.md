@@ -1,1 +1,1 @@
-# solid-pancake
+# JPG-to-PNG-Converter
